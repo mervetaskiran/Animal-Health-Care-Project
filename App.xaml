@@ -1,0 +1,48 @@
+﻿<Application x:Class="AnimalHealthCareDBMS.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AnimalHealthCareDBMS"
+             StartupUri="LoginWindow.xaml"
+             >
+    <Application.Resources>
+            <ResourceDictionary>
+
+            <BitmapImage x:Key="icon_see_password_hover" UriSource="Img/icon_see_password_hover.png"/>
+            <BitmapImage x:Key="icon_hide_password_hover" UriSource="Img/icon_hide_password_hover.png" />
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Img/logo.xaml"/>
+                <ResourceDictionary Source="Img/icon_see_password.xaml"/>
+                <ResourceDictionary Source="Img/icon_hide_password.xaml"/>
+                <ResourceDictionary Source="Img/bg_menu_top.xaml"/>
+                <ResourceDictionary Source="Img/icon_user.xaml"/>
+                <ResourceDictionary Source="Img/bg_menu_name.xaml"/>
+                <ResourceDictionary Source="Img/icon_bar.xaml"/>
+                <ResourceDictionary Source="Img/icon_question.xaml"/>
+                <ResourceDictionary Source="Img/btn_copy.xaml" />
+                <ResourceDictionary Source="Img/btn_copy_hover.xaml" />
+                <ResourceDictionary Source="Img/btn_copy_pressed.xaml" />
+                <ResourceDictionary Source="Img/icon_plus.xaml" />
+                <ResourceDictionary Source="Img/icon_temperature.xaml" />
+                <ResourceDictionary Source="Img/icon_temperature_hover.xaml" />
+                <ResourceDictionary Source="Img/icon_temperature_pressed.xaml" />
+                <ResourceDictionary Source="Img/icon_ketone.xaml" />
+                <ResourceDictionary Source="Img/icon_ketone_hover.xaml" />
+                <ResourceDictionary Source="Img/icon_ketone_pressed.xaml" />
+                <ResourceDictionary Source="Img/icon_dropdown.xaml" />
+                <ResourceDictionary Source="Img/icon_dropdown_hover.xaml" />
+                <ResourceDictionary Source="Img/icon_dropdown_pressed.xaml" />
+                <ResourceDictionary Source="Img/icon_checked.xaml" />
+                <ResourceDictionary Source="Img/icon_unchecked.xaml" />
+                <ResourceDictionary Source="Img/icon_checked_hover.xaml" />
+                <ResourceDictionary Source="Img/icon_search.xaml" />
+                <ResourceDictionary Source="Img/icon_search_hover.xaml" />
+                <ResourceDictionary Source="Img/icon_search_pressed.xaml" />
+                <ResourceDictionary Source="Img/btn_add.xaml" />
+                <ResourceDictionary Source="Img/btn_add_hover.xaml" />
+                <ResourceDictionary Source="Img/btn_add_pressed.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+                
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
