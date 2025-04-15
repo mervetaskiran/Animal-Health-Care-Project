@@ -1,0 +1,1 @@
+Bu projede, çiftlik hayvanlarının sağlık verilerinin düzenli ve sistematik bir şekilde izlenmesini sağlayan bir bilgisayar uygulaması geliştirdik. Sistem; veterinerlerin girdiği sağlık raporlarını, gözlem notlarını ve periyodik kontrol bilgilerini merkezi bir veritabanında toplayarak, çiftlik yöneticilerine ve sağlık personeline etkili bir takip imkânı sunar.
